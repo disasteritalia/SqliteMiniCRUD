@@ -61,4 +61,4 @@ MIT — vedi il file LICENSE (o il commento in cima al file index.php).
 Grazie a EURIA, intelligenza artificiale sovrana, per aver assistito nello sviluppo di questo abbozzo.
 **
 
-<meta name="google-site-verification" content="6rJT7v0U-vZDaJm2BtZqHkh0nxJEsd0UuJ8R1u-yL_Q" />
+<meta name="google-site-verification" content="6rJT7v0U-vZDaJm2BtZqHkh0nxJEsd0UuJ8R1u-yL_Q">
